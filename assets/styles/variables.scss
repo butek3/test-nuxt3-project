@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'PTRootUIWebVF';
+  src:
+          url('../fonts/PT-root-UI/PT-Root-UI_VF.woff2') format('woff2'),
+          url('../fonts/PT-root-UI/PT-Root-UI_VF.woff') format('woff');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+$primary-color: #333;
+$secondary-color: #666;
+$border-color: #e0e0e0;
+$accent-color: #42cc99;
+$background-color: #f5f5f5;
+$hover-color: #f0f0f0;
+$active-color: #e6e6e6;
+
+$font-family: 'PT Root UI', sans-serif;
+
+$mobile: 768px;
+$tablet: 960px;
+$desktop: 1200px;
+$large-desktop: 1440px;
